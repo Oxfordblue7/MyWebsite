@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.hanxie.com/sitemap.xml
+Sitemap: https://oxfordblue7.github.io/sitemap.xml
