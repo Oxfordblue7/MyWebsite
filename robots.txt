@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://oxfordblue7.github.io/sitemap.xml
+Sitemap: /sitemap.xml
