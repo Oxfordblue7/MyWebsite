@@ -4,6 +4,7 @@ permalink: /services/
 title: Services
 description: Academic and teaching services.
 nav: true
+nav_order: 3
 ---
 
 ---
@@ -37,7 +38,7 @@ nav: true
 
 ### __Coordinator__
 
-- Emory Graph Mining Lab, Emory University (2021 - )
+- Emory Graph Mining Lab, Emory University (2021 - 2024)
 
 ---
 
