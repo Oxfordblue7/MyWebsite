@@ -17,6 +17,7 @@ May 2023 - Dec. 2023. Palo Alto, California, United States
 
 - Worked on generative LMs to improve search ranking performance.
 
+---
 
 #### __Applied Scientist Intern__
 

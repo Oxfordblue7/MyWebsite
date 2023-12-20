@@ -11,11 +11,11 @@ nav_order: 4
 
 #### __GCFL: Federated Graph Classification over Non-iid Graphs__
 
-##### Jul. 2021. Prof. Salman Avestimehr's group, University of Southern California.
+##### Jul. 2021 * Prof. Salman Avestimehr's group, University of Southern California.
 
 
 ---
 
 #### __Data Heterogeneity in Federated Graph Learning__
 
-##### Oct. 2023. Prof. Bo Li's group, University of Chicago.
+##### Oct. 2023 * Prof. Bo Li's group, University of Chicago.
