@@ -2,15 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.emory.edu/home/index.html'>Emory University</a>. 201 Dowman Drive, Atlanta, GA 30322.
+subtitle: <a href='https://www.emory.edu/home/index.html'>Emory University</a>. Atlanta, GA 30322.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mypic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Mathematics & Science Center, Suite N410</p>
-    <p>400 Dowman Drive</p>
+    <p>Suite N410, 400 Dowman Drive</p>
     <p>Atlanta, Georgia 30322</p>
 
 news: true  # includes a list of news items
