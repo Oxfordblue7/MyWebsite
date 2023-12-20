@@ -16,7 +16,7 @@ children:
     - title: divider
     - title: talks
       permalink: /talks/
-    - title: divider
-    - title: cv
-      permalink: /cv/
+    # - title: divider
+    # - title: cv
+    #   permalink: /cv/
 ---
