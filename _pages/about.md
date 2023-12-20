@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.emory.edu/home/index.html'>Emory University</a>. Atlanta, Georgia 30322.
+subtitle: <a href='https://www.emory.edu/home/index.html'>Emory University</a>. Atlanta, Georgia, United States.
 
 profile:
   align: right
