@@ -2,7 +2,7 @@
 layout: page
 permalink: /services/
 title: Services
-description:
+description: Academic and teaching services.
 nav: true
 ---
 
@@ -39,8 +39,9 @@ nav: true
 
 - Emory Graph Mining Lab, Emory University (2021 - )
 
+---
 
-## __Teaching__
+### __Teaching__
 
 - CS171 Introduction to Computer Science II (Spring 2021)
 - CS534 Machine Learning (Fall 2020)
