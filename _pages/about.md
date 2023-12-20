@@ -6,7 +6,7 @@ subtitle: <a href='https://www.emory.edu/home/index.html'>Emory University</a>. 
 
 profile:
   align: right
-  image: mypic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Suite N410, 400 Dowman Drive</p>
