@@ -2,7 +2,7 @@
 layout: page
 permalink: /experiences/
 title: Experiences
-description: Academic and teaching services.
+description: 
 nav: true
 nav_order: 2
 ---
@@ -36,13 +36,13 @@ Jun. 2017 - Jun. 2019. Pittsburgh, Pennsylvania, United States
 - Worked on constructing gene graphs and designing systematic methods for measuring the expression-weighted complexity of gene graphs.
 
 
----
+%---
 
-### __Teaching Experience__
+%### __Teaching Experience__
 
-###### __CS171__    Introduction to Computer Science II    Spring 2021
+%###### __CS171__    Introduction to Computer Science II    Spring 2021
 
-###### __CS534__    Machine Learning                       Fall 2020
+%###### __CS534__    Machine Learning                       Fall 2020
 
-###### __CS170__    Introduction to Computer Science I     Spring 2020 
+%###### __CS170__    Introduction to Computer Science I     Spring 2020 
 
