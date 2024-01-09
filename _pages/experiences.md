@@ -9,7 +9,7 @@ nav_order: 2
 
 ---
 
-#### __Applied Scientist Intern__
+#### Applied Scientist Intern
 
 ##### __Amazon__
 
@@ -36,13 +36,4 @@ Jun. 2017 - Jun. 2019. Pittsburgh, Pennsylvania, United States
 - Worked on constructing gene graphs and designing systematic methods for measuring the expression-weighted complexity of gene graphs.
 
 
-%---
-
-%### __Teaching Experience__
-
-%###### __CS171__    Introduction to Computer Science II    Spring 2021
-
-%###### __CS534__    Machine Learning                       Fall 2020
-
-%###### __CS170__    Introduction to Computer Science I     Spring 2020 
 
