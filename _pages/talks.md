@@ -18,6 +18,15 @@ Jul. 2021
 
 ---
 
+##### __Presenter Representative for the Program of Computer Science and Informatics__
+
+Oct. 2021
+
+###### Learning about Laney Symposium
+
+
+---
+
 ##### __Data Heterogeneity in Federated Graph Learning__
 
 Oct. 2023
