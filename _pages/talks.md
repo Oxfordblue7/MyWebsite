@@ -22,7 +22,7 @@ Jul. 2021
 
 Oct. 2021
 
-###### Learning about Laney Symposium
+###### Learning about Laney Symposium, Emory University.
 
 
 ---
