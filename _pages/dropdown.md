@@ -5,21 +5,21 @@ nav: true
 nav_order: 5
 dropdown: true
 children: 
-    # - title: publications
+    # - title: Publications
     #   permalink: /publications/
     # - title: divider
-    # - title: experiences
+    # - title: Experiences
     #   permalink: /experiences/
     # - title: divider
-    # - title: services
+    # - title: Services
     #   permalink: /services/
     # - title: divider
-    - title: honors
+    - title: Honors
       permalink: /honors/
     - title: divider
-    - title: talks
+    - title: Talks
       permalink: /talks/
     # - title: divider
-    # - title: cv
+    # - title: CV
     #   permalink: /cv/
 ---

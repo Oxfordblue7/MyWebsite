@@ -3,8 +3,8 @@ layout: page
 permalink: /honors/
 title: Selected Honors & Awards
 description: 
-nav: true
-nav_order: 4
+nav: false
+nav_order: 
 ---
 
 ---
