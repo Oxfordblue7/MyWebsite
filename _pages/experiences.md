@@ -2,7 +2,7 @@
 layout: page
 permalink: /experiences/
 title: Experiences
-description: 
+description: Academic and industrial experiences.
 nav: true
 nav_order: 2
 ---
