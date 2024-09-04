@@ -16,20 +16,22 @@ nav_order: 3
 
 ### __Conference Reviewer__
 
+- The Conference on Neural Information Processing Systems (NeurIPS) 2023, 2024
+- NeurIPS Datasets and Benchmarks Track 2022, 2023, 2024
+- International Conference on Machine Learning (ICML) 2024
+- ACM International Conference on Research and Development in Information Retrieval (SIGIR) 2023, 2024
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD) 2022, 2024
 - International Workshop on Federated Learning for Distributed Data Mining @ ACM SIGKDD (FL4Data-Mining) 2023
-- ACM International Conference on Research and Development in Information Retrieval (SIGIR) 2023
-- The Conference on Neural Information Processing Systems (NeurIPS) 2023
-- NeurIPS Datasets and Benchmarks Track 2022, 2023
 - International World Wide Web Conference (WWW) 2022, 2023
 - The International Workshop on Federated Learning with Graph Data (FedGraph) 2022, 2023
-- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD) 2022
 - SIAM International Conference on Data Mining (SDM) 2022
 
 ### __Journal Reviewer__
 
+- IEEE Transactions on Knowledge and Data Engineering (TKDE) 2022, 2024
+- IEEE Transactions on Parallel and Distributed Systems (TPDS) 2024
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2023
 - ACM Transactions on Knowledge Discovery from Data (TKDD) 2023
-- IEEE Transactions on Knowledge and Data Engineering (TKDE) 2022, 2023
 - Patterns journal 2022
 
 ### __Volunteer__
